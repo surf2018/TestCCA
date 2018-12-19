@@ -1,0 +1,11 @@
+platform,browserName,version,length,width
+MAC,safari,,,
+MAC,safari,,1920,1080
+MAC,safari,,1920,1200
+MAC,safari,,1680,1050
+MAC,safari,,1440,900
+MAC,safari,,1366,768
+MAC,safari,,1280,1024
+MAC,safari,,1280,960
+MAC,safari,,1280,800
+MAC,safari,,1280,600

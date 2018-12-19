@@ -1,0 +1,11 @@
+platform,browserName,version,length,width
+WINDOWS,chrome,,,
+WINDOWS,chrome,,1920,1080
+WINDOWS,chrome,,1920,1200
+WINDOWS,chrome,,1680,1050
+WINDOWS,chrome,,1440,900
+WINDOWS,chrome,,1366,768
+WINDOWS,chrome,,1280,1024
+WINDOWS,chrome,,1280,960
+WINDOWS,chrome,,1280,800
+WINDOWS,chrome,,1280,600
